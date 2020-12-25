@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Brown</folder>
+	<filename>7.jpg</filename>
+	<path>C:\Users\krant\Desktop\project\DataSet\ColorClassification\Brown\7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>7</ymin>
+			<xmax>1269</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+</annotation>
