@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Black</folder>
+	<filename>11.jpg</filename>
+	<path>C:\Users\krant\Desktop\project\DataSet\ColorClassification\Black\11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Black</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>15</ymin>
+			<xmax>2547</xmax>
+			<ymax>1586</ymax>
+		</bndbox>
+	</object>
+</annotation>
