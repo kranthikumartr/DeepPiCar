@@ -1,0 +1,26 @@
+<annotation>
+	<folder>orange</folder>
+	<filename>5.jpg</filename>
+	<path>C:\Users\krant\Desktop\project\DataSet\ColorClassification\orange\5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>995</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>29</ymin>
+			<xmax>976</xmax>
+			<ymax>918</ymax>
+		</bndbox>
+	</object>
+</annotation>
