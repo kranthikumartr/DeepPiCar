@@ -1,0 +1,26 @@
+<annotation>
+	<folder>White</folder>
+	<filename>6.jpg</filename>
+	<path>C:\Users\krant\Desktop\project\DataSet\ColorClassification\White\6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>556</width>
+		<height>730</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>White</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>22</ymin>
+			<xmax>551</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>
