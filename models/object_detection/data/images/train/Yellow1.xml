@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yellow</folder>
+	<filename>Yellow1.jpg</filename>
+	<path>C:\Users\krant\Desktop\project\New Dataset\Yellow\Yellow1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>733</width>
+		<height>523</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>6</ymin>
+			<xmax>724</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

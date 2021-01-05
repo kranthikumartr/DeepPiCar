@@ -1,0 +1,26 @@
+<annotation>
+	<folder>White</folder>
+	<filename>White5.jpg</filename>
+	<path>C:\Users\krant\Desktop\project\New Dataset\White\White5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>694</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>White</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>10</ymin>
+			<xmax>421</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>

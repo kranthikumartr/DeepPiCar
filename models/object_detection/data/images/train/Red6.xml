@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Red</folder>
+	<filename>Red6.jpg</filename>
+	<path>C:\Users\krant\Desktop\project\New Dataset\Red\Red6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>747</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>3</ymin>
+			<xmax>733</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>
