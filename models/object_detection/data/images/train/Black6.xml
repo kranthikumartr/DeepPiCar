@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Black</folder>
+	<filename>Black6.jpg</filename>
+	<path>C:\Users\krant\Desktop\project\New Dataset\Black\Black6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1693</width>
+		<height>2495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Black</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>171</ymin>
+			<xmax>1518</xmax>
+			<ymax>2093</ymax>
+		</bndbox>
+	</object>
+</annotation>
